@@ -1,4 +1,6 @@
-// 0.1.2
+// 0.1.3
+const live2d_path = "https://cdn.jsdelivr.net/gh/tanmantang/live2d-widget@latest/";
+
 try {
     $("<link>").attr({href: "waifu.css", rel: "stylesheet", type: "text/css"}).appendTo('head');
     $("<link>").attr({href: "https://cdn.jsdelivr.net/npm/font-awesome/css/font-awesome.min.css", rel: "stylesheet", type: "text/css"}).appendTo('head');
