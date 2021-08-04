@@ -1,3 +1,4 @@
+// 1.0.0
 try {
     $("<link>").attr({href: "/live2d/waifu.css?v=1.4.2", rel: "stylesheet", type: "text/css"}).appendTo('head');
     $("<link>").attr({href: "https://cdn.jsdelivr.net/npm/font-awesome/css/font-awesome.min.css", rel: "stylesheet", type: "text/css"}).appendTo('head');
