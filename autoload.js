@@ -1,5 +1,5 @@
 // 0.1.3
-const live2d_path = "https://cdn.jsdelivr.net/gh/tanmantang/live2d-widget@latest/";
+const live2d_path = "https://cdn.jsdelivr.net/gh/tanmantang/live2d-widget@0.1.3/";
 
 try {
     $("<link>").attr({href: live2d_path+"waifu.css", rel: "stylesheet", type: "text/css"}).appendTo('head');
