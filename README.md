@@ -1,6 +1,6 @@
 # Live2D demo
 
-Live2D 看板娘插件 (https://www.fghrsh.net/post/123.html) 的前端 HTML 源码
+Live2D 看板娘插件的前端 HTML 源码
 
 ### 特性
 
